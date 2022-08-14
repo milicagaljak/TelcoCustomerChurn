@@ -2,7 +2,7 @@
 
 ## About project
 
-This project represents an example of the "*Telco Customer Churn Prediction System*" that predicts whether the customer churned or not. Also, it has been used an *InterpretML* library to show relations between atributes and their importance for the target value
+This project represents an example of the "*Telco Customer Churn Prediction System*" that predicts whether the customer churned or not. Also, it has been used an *InterpretML* library to show relations between atributes and their importance for the target value.
 
 ## :mortar_board: Autor
 - [Milica Galjak, 1071/2020](https://github.com/milicagaljak)

@@ -9,16 +9,22 @@ This project represents an example of the "*Telco Customer Churn Prediction Syst
 
 ## Run project
 
-This project works in Google Colab. It contains all necessary libraries and packages.
+Installation of necessary libraries and packages:
+
+***InterpretML:***
+
+*pip install interpret*<br />
+or<br />
+*conda install -c interpretml interpret*
 
 
 ## Data
 Dataset used in this project was downloaded from
 [Kaggle - Telco Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) and than processed.
 
-Each row represents a customer, each column contains customer’s attributes described on the column Metadata.
+Each row represents a customer, each column contains customer’s attributes described in the file *"./dataset/DatasetDescription.docx"*.
 The raw data contains 7043 rows (customers) and 21 columns (features).
-The “Churn” column is our target.
+The “Churn” column is our target value.
 
 
 ## Related work

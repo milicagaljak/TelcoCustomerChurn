@@ -9,13 +9,21 @@ This project represents an example of the "*Telco Customer Churn Prediction Syst
 
 ## Run project
 
-Installation of necessary libraries and packages:
+-Installation of rarely used ML libraries and packages:
 
 ***InterpretML:***
 
-*pip install interpret*<br />
+***pip install interpret***<br />
 or<br />
-*conda install -c interpretml interpret*
+***conda install -c interpretml interpret***
+
+-Other important libraries and packages:
+
+*pandas, numpy, sklearn, matplotlib etc.*
+
+Installation of these packages goes the same like previous example.
+
+The project was built in Jupyter notebook environment.
 
 
 ## Data

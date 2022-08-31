@@ -9,19 +9,29 @@ This project represents an example of the "*Telco Customer Churn Prediction Syst
 
 ## Run project
 
--Installation of rarely used ML libraries and packages:
+-Installation commands for python libraries and packages:
 
-***InterpretML:***
+*InterpretML:*<br />
+pip install interpret<br />
 
-***pip install interpret***<br />
-or<br />
-***conda install -c interpretml interpret***
+*pickle:*<br />
+pip install pickle5<br />
 
--Other important libraries and packages:
+*seaborn:*<br />
+pip install seaborn<br />
 
-*pandas, numpy, sklearn, matplotlib etc.*
+*numpy:*<br />
+pip install numpy<br />
 
-Installation of these packages goes the same like previous example.
+*pandas:*<br />
+pip install pandas<br />
+
+*sklearn:*<br />
+pip install -U scikit-learn<br />
+
+*matplotlib:*<br />
+python -m pip install -U matplotlib<br />
+
 
 The project was built in Jupyter notebook environment.
 

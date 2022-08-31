@@ -2,7 +2,7 @@
 
 ## About project
 
-This project represents an example of the "*Telco Customer Churn Prediction System*" that predicts whether the customer churned or not. Also, it has been used an *InterpretML* library to show relations between atributes and their importance for the target value.
+This project represents an example of the "*Telco Customer Churn Prediction System*" that predicts whether the customer churned or not. Also, *InterpretML* library has been used to show relations between atributes and their importance for the target value.
 
 ## :mortar_board: Autor
 - [Milica Galjak, 1071/2020](https://github.com/milicagaljak)
@@ -38,9 +38,9 @@ The project was built in Jupyter notebook environment.
 
 ## Data
 Dataset used in this project was downloaded from
-[Kaggle - Telco Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) and than processed.
+[Kaggle - Telco Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) and then it was processed.
 
-Each row represents a customer, each column contains customer’s attributes described in the file *"./dataset/DatasetDescription.docx"*.
+Each row represents a customer, while each column contains customer’s attributes described in the *"./dataset/DatasetDescription.docx"* file.
 The raw data contains 7043 rows (customers) and 21 columns (features).
 The “Churn” column is our target value.
 
